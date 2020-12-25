@@ -5,6 +5,5 @@ public class ApplicationRuntimeException extends RuntimeException {
 	
 	public ApplicationRuntimeException() {
 		super();
-	}
-	
+	}	
 }
