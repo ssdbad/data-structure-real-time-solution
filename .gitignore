@@ -24,3 +24,4 @@ hs_err_pid*
 interview-preparation/.classpath
 interview-preparation/.project
 *.prefs
+interview-preparation/pom.xml
