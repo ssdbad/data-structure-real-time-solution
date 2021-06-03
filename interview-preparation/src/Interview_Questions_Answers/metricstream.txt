@@ -1,0 +1,25 @@
+Company : Metricstream
+
+Data Structure :
+input linkedList implementation -> 1,5,2,4,6
+out reverse LinkedList -> 6,4,2,5,1
+
+Java :
+Difference between Agreegation/Composition ?
+
+Collection :
+Difference between ArrayList/HashMap ?
+Time Complexity for read/put operation ?
+
+MultiThreading :
+Which system define the priority of Thread.
+(If one thread is executing then other prior thread comes for execution, then which Java/OS system
+is getting called for priority thread execution.)
+
+JDBC :
+How to do JDBC Connection ?
+How to call a procedure in JDBC ?
+
+Oracle :
+(Find all employee details from employee {left table} and department based on dept_id.)
+select distinct(e.emp_id), d.dept from employee e left outer join department d where e.dept_id = d.dept_id;
