@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.structure.data</groupId>
   <artifactId>DataStructure</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.0.1-SNAPSHOT</version>
   <name>Data Structure Interview Prep</name>
   <description>Maven Project for Data Structure Interview Preparation</description>
   <properties>
