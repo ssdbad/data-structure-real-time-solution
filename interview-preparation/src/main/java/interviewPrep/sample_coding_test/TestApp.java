@@ -7,8 +7,8 @@ public class TestApp {
 	public static void main(String[] args) {
 		/*intermediate*/
 		//Rename_Variables
-		System.out.println(Rename_Variables.renameVariables("abcd_variable_name"));
-		System.out.println(Rename_Variables.renameVariables("abcdVariableName"));
+//		System.out.println(Rename_Variables.renameVariables("abcd_variable_name"));
+//		System.out.println(Rename_Variables.renameVariables("abcdVariableName"));
 
 	}
 }
