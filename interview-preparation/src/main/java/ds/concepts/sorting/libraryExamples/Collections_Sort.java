@@ -10,7 +10,7 @@ public class Collections_Sort {
 	
 	public List<Integer> sortedIntegers(){
 		List<Integer> input = Arrays.asList();
-		return null;
+		return input;
 	}
 	
 }
