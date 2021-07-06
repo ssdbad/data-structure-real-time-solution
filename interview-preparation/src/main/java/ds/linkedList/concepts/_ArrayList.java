@@ -1,5 +1,5 @@
 package ds.linkedList.concepts;
 
-public class _CustomizedArrayList {
+public class _ArrayList {
     
 }

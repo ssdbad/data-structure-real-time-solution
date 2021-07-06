@@ -5,7 +5,7 @@ input linkedList implementation -> 1,5,2,4,6
 out reverse LinkedList -> 6,4,2,5,1
 
 Java :
-Difference between Agreegation/Composition ?
+Difference between Aggregation/Composition ?
 
 Collection :
 Difference between ArrayList/HashMap ?
