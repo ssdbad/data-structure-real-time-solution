@@ -6,6 +6,14 @@ public class Employee implements Serializable{
 	//Read about it again, why it is usable. sonar rule (squid:S4926)
 	private static final long serialVersionUID = 3111360285116881521L;
 
+	public Employee(Integer employeeId, String empFirstName, String empLastName, String empEmailId, Address address) {
+			this.employeeId = employeeId;
+			this.empFirstName = empFirstName;
+			this.empLastName = empLastName;
+			this.empEmailId = empEmailId;
+			this.address = address;
+	}
+
 	private Integer employeeId;
 	
 	private String empFirstName;
@@ -17,13 +25,7 @@ public class Employee implements Serializable{
 	
 	private Address address;
 
-	public Employee(Integer employeeId, String empFirstName, String empLastName, String empEmailId, Address address) {
-		this.employeeId = employeeId;
-		this.empFirstName = empFirstName;
-		this.empLastName = empLastName;
-		this.empEmailId = empEmailId;
-		this.address = address;
-	}
+	
 
 	public Integer getEmployeeId() {
 		return employeeId;

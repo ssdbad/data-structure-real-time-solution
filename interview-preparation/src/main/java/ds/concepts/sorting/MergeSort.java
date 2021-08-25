@@ -23,9 +23,9 @@ public class MergeSort {
         int R[] = new int[n2];
 
         //copy data to temp arrays
-        for (int i = 0; i < n1; ++i)
+        for (int i = 0; i < n1; i++)
             L[i] = array[left+i];
-        for (int i = 0; i < n2; ++i) {
+        for (int i = 0; i < n2; i++) {
             R[i] = array[middle+1+i];
         }
 
