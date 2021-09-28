@@ -1,14 +1,30 @@
 package interviewPrep.round_one;
 
-//Bubble Sort, Quick Sort and implement other sorting also
+//@BubbleSort, @HeapSort, @InsertionSort, @MergeSort, @QuickSort, @SelectionSort
 public class ArraySorting {
-	
-	
-	public int[] quickSort(int[] arrayInput) {
-		return null;
-	}
 	
 	public int[] bubbleSort(int[] arrayInput) {
 		return null;
 	}
+
+	public int[] heapSort(int[] arrayInput){
+		return null;
+	}
+
+	public int[] insertionSort(int[] arrayInput){
+		return null;
+	}
+
+	public int[] mergeSort(int[] arrayInput){
+		return null;
+	}
+
+	public int[] quickSort(int[] arrayInput) {
+		return null;
+	}
+
+	public int[] selectionSort(int[] arrayInput){
+		return null;
+	}
+	
 }
